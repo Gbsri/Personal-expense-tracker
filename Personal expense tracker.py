@@ -127,8 +127,8 @@ def menu():
         print("\nExpense Tracker Menu")
         print("1. Add an expense")
         print("2. View summary")
-        print("3. Delete/Edit an expense (Bonus)")
-        print("4. View graphical summary (Bonus)")
+        print("3. Delete/Edit an expense")
+        print("4. View graphical summary")
         print("5. Exit")
         
         choice = input("Choose an option: ")
